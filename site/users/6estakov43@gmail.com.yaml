@@ -1,0 +1,6 @@
+name: Ilia
+super: true
+id: 3e792ae0-ad0a-4a1f-abc8-4adf9a3625e8
+password_hash: $2y$12$wKmaO2h1HU0z7psnVduBkONYdvFIdLUZG.9KQ7xQYlVMZdiWSmH52
+preferences:
+  theme: dark

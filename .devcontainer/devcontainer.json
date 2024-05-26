@@ -1,0 +1,6 @@
+{
+    "name": "Statamic",
+    "build": {
+        "dockerfile": "../Dockerfile"
+    }
+}
